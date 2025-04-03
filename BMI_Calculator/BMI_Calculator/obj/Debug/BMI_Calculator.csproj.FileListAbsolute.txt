@@ -1,0 +1,9 @@
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.frm_BMI.resources
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.Cache
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
