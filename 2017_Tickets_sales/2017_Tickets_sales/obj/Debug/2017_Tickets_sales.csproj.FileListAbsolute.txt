@@ -1,0 +1,9 @@
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\bin\Debug\2017_Tickets_sales.exe.config
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\bin\Debug\2017_Tickets_sales.exe
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\bin\Debug\2017_Tickets_sales.pdb
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\obj\Debug\2017_Tickets_sales.csprojResolveAssemblyReference.cache
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\obj\Debug\_2017_Tickets_sales.frm_2017_Tickets_sales.resources
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\obj\Debug\_2017_Tickets_sales.Properties.Resources.resources
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\obj\Debug\2017_Tickets_sales.csproj.GenerateResource.Cache
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\obj\Debug\2017_Tickets_sales.exe
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\2017_Tickets_sales\2017_Tickets_sales\obj\Debug\2017_Tickets_sales.pdb
