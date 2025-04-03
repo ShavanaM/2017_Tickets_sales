@@ -1,0 +1,9 @@
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\bin\Debug\Copy_Cat_cafe.exe.config
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\bin\Debug\Copy_Cat_cafe.exe
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\bin\Debug\Copy_Cat_cafe.pdb
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\obj\Debug\Copy_Cat_cafe.csprojResolveAssemblyReference.cache
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\obj\Debug\Copy_Cat_cafe.frm_Copy_Cat_Cafe.resources
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\obj\Debug\Copy_Cat_cafe.Properties.Resources.resources
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\obj\Debug\Copy_Cat_cafe.csproj.GenerateResource.Cache
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\obj\Debug\Copy_Cat_cafe.exe
+C:\Users\Gayathri Peedam\Desktop\Dut\Second_Semester\APP_DEV_1B\Programme_Exercise\Copy_Cat_cafe\Copy_Cat_cafe\obj\Debug\Copy_Cat_cafe.pdb

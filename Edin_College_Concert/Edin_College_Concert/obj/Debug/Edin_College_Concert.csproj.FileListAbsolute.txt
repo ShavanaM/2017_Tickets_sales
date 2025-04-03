@@ -1,0 +1,9 @@
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\bin\Debug\Edin_College_Concert.exe.config
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\bin\Debug\Edin_College_Concert.exe
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\bin\Debug\Edin_College_Concert.pdb
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\obj\Debug\Edin_College_Concert.csprojResolveAssemblyReference.cache
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\obj\Debug\Edin_College_Concert.Properties.Resources.resources
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\obj\Debug\Edin_College_Concert.csproj.GenerateResource.Cache
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\obj\Debug\Edin_College_Concert.exe
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\obj\Debug\Edin_College_Concert.pdb
+C:\Users\Gayathri Peedam\Desktop\Edin_College_Concert\Edin_College_Concert\obj\Debug\Edin_College_Concert.frm_Edin_College_Concert.resources
